@@ -1,0 +1,10 @@
+Flask
+yfinance
+matplotlib
+numpy
+pandas
+gunicorn
+python-dotenv
+Flask-Cors
+requests
+
